@@ -1,0 +1,28 @@
+.text-input{
+    padding:4px;
+    border:none;
+    outline:none;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+.number-input{
+    
+    padding:4px;
+    border:none;
+    outline:none;
+    text-align: center;
+    border-bottom: 1px solid black;
+    max-width:50px;
+}
+.text-input:disabled, .number-input:disabled, .select-input:disabled{
+    border-bottom: 0px;
+    color:black;
+    background: transparent;
+}
+.select-input{
+    /* padding:4px; */
+    border:none;
+    outline:none;
+    /* text-align: center; */
+    border-bottom: 1px solid black;
+}

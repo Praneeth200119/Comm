@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "@emotion/react": "11.11.4",
+    "@emotion/styled": "latest",
+    "@material-ui/core": "4.12.4",
+    "@material-ui/icons": "4.11.3",
+    "@mui/icons-material": "5.15.14",
+    "@mui/material": "latest",
+    "@mui/x-date-pickers": "^7.1.0",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@babel/plugin-proposal-private-property-in-object": "latest",
+    "material-ui-dropzone": "latest",
+    "axios": "^1.6.8",
+    "context": "^3.0.28",
+    "contexts": "^0.0.0",
+    "main": "^1000.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native": "^0.73.6",
+    "react-native-paper": "^5.12.3",
+    "react-query": "^3.39.3",
+    "react-router-dom": "6.22.3",
+    "react-swipeable-views": "0.14.0",
+    "react-toastify": "^10.0.5",
+    "typescript": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.15.14/docs/data/material/components/cards/MultiActionAreaCard.tsx",
+  "devDependencies": {
+    "@types/react-native": "^0.73.0",
+    "@types/react-swipeable-views": "^0.13.5",
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "scripts": {
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start",
+    "test": "react-scripts test"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
